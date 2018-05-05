@@ -2,7 +2,7 @@
 ## 自定义封装的环形进度条指示器
 
 
-
+![img](https://github.com/xuanyuelin/GradientCircleView/blob/master/circleIndicator.gif)
 
 
 ### 实现思路
